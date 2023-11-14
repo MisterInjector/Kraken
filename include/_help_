@@ -1,0 +1,28 @@
+                                                                                
+                                     @@@@@@@@                                   
+                                  @@@@@@@@@@@@@                                 
+                 @@@@@@@@        @@@@@@@@@@@@@@@        @@@@@@@@                
+                 @@&  @@@@      @@@@@@@@@@@@@@@@@      @@@@   @@                
+                    * @@@@      @@@@@@@@@@@@@@@@@      @@@@  /                  
+                      @@@@  @@@  @@@@@@@@@@@ @@@   @@  .@@@                     
+                      @@@.  @*@   @ @ @@@@@ @*@@  @@@   @@@                     
+                      @@@@    @@@@@@@@@@@@@@@@@@@@@@   *@@@                     
+                      @@@@@   @@@@@@@@@@@@@@@@@@@@@   @@@@@                     
+                       @@@@@@@*@@@@@@@@@@@@@@@@@@@@@@@@@@@                      
+                             @@@@@ @@@@@@/@@@@ @@@@@                            
+                           &@@@@ @@@@@@   .@@@@@ @@@@@                          
+                        @@@@@@@@@@@@         @@@@@@ @@@@@                       
+                   @@@@@@@   @@@                 @@@   @@@@@@@*                 
+                  @@@@@@@     @@@@@@          @@@@@     @@@@@@@@ 
+
+                  Kraken: A P2P Encrypted Network   -  Version: 0.1
+                      Created by: Mr.Injector (Sockets Archives)
+
+
+            --help            <Show help message>
+            --create-node     <Start Kraken on Node Mode>
+            --share-file      <Created a kraken file> <kraken.py --share-file file.pdf>
+            --generate-key    <Generate a key file to crypt files>
+            --download-file   <Download a file> <kraken.py --download-file file.kraken>
+            --continue-file   <Continue stoped download> <kraken.py --continue-file file.kraken file.ext>
+
