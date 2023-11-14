@@ -15,16 +15,6 @@ REQUIRED LIBRARIES
 - hashlib
 - Fernet
 
-
-COMMANDS                                
---help            <Show help message>
---create-node     <Start Kraken on Node Mode>
---share-file      <Created a kraken file> <kraken.py --share-file file.pdf>
---generate-key    <Generate a key file to crypt files>
---download-file   <Download a file> <kraken.py --download-file file.kraken>
---continue-file   <Continue stoped download> <kraken.py --continue-file file.kraken file.ext>
-
-
 MODULES SPECS                                
 _crypto.py
     EncryptFile() - Used to crypt file before send it to the Leech
