@@ -1,13 +1,12 @@
-#Kraken: A P2P Encrypted Network   -  Version: 0.1
-#Created by: Mr.Injector (Sockets Archives)
+# Kraken: A P2P Encrypted Network   -  Created by Mr.Injector (Sockets Archives) - Version: 0.1
                       
                       
-    REQUIREMENTS
+REQUIREMENTS
 - Python3+
 - Internet Connection
 - Linux/Windows/MacOS
 
-      REQUIRED LIBRARIES
+REQUIRED LIBRARIES
 - socket 
 - os
 - sys
@@ -17,7 +16,7 @@
 - Fernet
 
 
-      COMMANDS                                
+COMMANDS                                
 --help            <Show help message>
 --create-node     <Start Kraken on Node Mode>
 --share-file      <Created a kraken file> <kraken.py --share-file file.pdf>
@@ -25,7 +24,8 @@
 --download-file   <Download a file> <kraken.py --download-file file.kraken>
 --continue-file   <Continue stoped download> <kraken.py --continue-file file.kraken file.ext>
 
-    MODULES SPECS                                
+
+MODULES SPECS                                
 _crypto.py
     EncryptFile() - Used to crypt file before send it to the Leech
     DecryptFile() - Used to decrypt downloaded file from Peer
