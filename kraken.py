@@ -1,5 +1,5 @@
 # Kraken: A P2P Crypted Network
-# Version: 0.6
+# Version: 0.3
 # Created by: Mr.Noname (Sockets Archives)
 # Required Library: socket, _thread, cryptography, time, hashlib, os, sys, tqdm
 
