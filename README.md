@@ -2,7 +2,7 @@
 #Created by: Mr.Injector (Sockets Archives)
                       
                       
-      REQUIREMENTS
+    REQUIREMENTS
 - Python3+
 - Internet Connection
 - Linux/Windows/MacOS
@@ -25,7 +25,7 @@
 --download-file   <Download a file> <kraken.py --download-file file.kraken>
 --continue-file   <Continue stoped download> <kraken.py --continue-file file.kraken file.ext>
 
-      MODULES SPECS                                
+    MODULES SPECS                                
 _crypto.py
     EncryptFile() - Used to crypt file before send it to the Leech
     DecryptFile() - Used to decrypt downloaded file from Peer
