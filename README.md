@@ -1,5 +1,5 @@
-#                  Kraken: A P2P Encrypted Network   -  Version: 0.1
-#                     Created by: Mr.Injector (Sockets Archives)
+#Kraken: A P2P Encrypted Network   -  Version: 0.1
+#Created by: Mr.Injector (Sockets Archives)
                       
                       
                                     REQUIREMENTS
