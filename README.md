@@ -35,6 +35,8 @@
 - time
 - hashlib
 - Fernet
+
+
                                       COMMANDS
                                       
 --help            <Show help message>
